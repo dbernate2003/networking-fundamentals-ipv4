@@ -135,8 +135,6 @@ networking-fundamentals-ipv4/
 
 ## Next steps
 
-- [ ] Complete Exercise 2 — Subnets
-- [ ] Add screenshots for both exercises
 - [ ] Complete Cisco Networking Academy certifications
 - [ ] Explore VLAN configuration
 - [ ] Study routing protocols (RIP, OSPF)
